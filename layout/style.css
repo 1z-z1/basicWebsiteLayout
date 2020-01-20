@@ -1,0 +1,30 @@
+html{
+    background: black;
+    color: white;
+    text-align: center;
+}
+
+.topTitle{
+    border: 1px solid white;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.bottomTitle{
+    border: 1px solid white;
+    width: 100%;
+    margin: 0 auto;
+
+}
+
+.body{
+    width 100%;
+}
+
+.innerBody{
+    border: 1px solid white;
+    text-align: center;
+    width: 80%;
+    height: 500px;
+    margin: 0 auto;
+}
